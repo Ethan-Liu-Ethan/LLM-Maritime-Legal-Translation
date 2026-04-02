@@ -74,7 +74,7 @@ This work was supported by the National Social Science Fund of China (Grant No. 
   title={Evaluating translation performance of large language models in maritime legal translation},
   author={Liu, Shijie and Zhang, Yan},
   journal={Perspectives: Studies in Translation Theory and Practice},
-  year={in press},
+  year={in revision},
   publisher={Taylor \& Francis}
 }
 ```
