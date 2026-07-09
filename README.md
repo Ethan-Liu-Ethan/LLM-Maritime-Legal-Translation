@@ -2,7 +2,7 @@
 
 Online repository for the paper:
 
-> **Liu, S., & Zhang, Y. (in press). Evaluating translation performance of large language models in maritime legal translation. *Perspectives: Studies in Translation Theory and Practice*.**
+> **Liu, S., & Zhang, Y. (2026). Evaluating translation performance of large language models in maritime legal translation. *Perspectives: Studies in Translation Theory and Practice*.**
 
 This repository hosts the evaluation dataset, case study materials, appendices, and supplementary notes associated with the above paper. It is maintained to comply with the journal's word-length guidelines while keeping all supporting materials publicly accessible.
 
@@ -74,7 +74,7 @@ This work was supported by the National Social Science Fund of China (Grant No. 
   title={Evaluating translation performance of large language models in maritime legal translation},
   author={Liu, Shijie and Zhang, Yan},
   journal={Perspectives: Studies in Translation Theory and Practice},
-  year={in press},
+  year={2026},
   publisher={Taylor \& Francis}
 }
 ```
