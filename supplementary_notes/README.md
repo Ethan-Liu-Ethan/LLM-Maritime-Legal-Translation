@@ -21,4 +21,4 @@ This folder provides technical details, statistical explanations, figure/table r
 
 If you use these materials, please cite the associated paper:
 
-> Liu, S., & Zhang, Y. Evaluating translation performance of large language models in maritime legal translation. *Perspectives: Studies in Translation Theory and Practice*.
+> Liu, S., & Zhang, Y. Evaluating translation performance of Large Language Models in maritime legal translation. *Perspectives: Studies in Translation Theory and Practice*.
