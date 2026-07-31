@@ -1,6 +1,6 @@
 # Evaluation Metrics: Technical Details
 
-> **Paper**: Evaluating translation performance of large language models in maritime legal translation  
+> **Paper**: Evaluating translation performance of Large Language Models in maritime legal translation  
 > **Journal**: *Perspectives: Studies in Translation Theory and Practice*  
 > **Authors**: Shijie Liu & Yan Zhang
 
